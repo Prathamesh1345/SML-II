@@ -1,5 +1,7 @@
 # Experiment 13: Ant Colony Optimisation for Shortest-Path Finding
 
+> **Source and attribution:** This report is copied/adapted for study reference from [the original report](https://github.com/codesbysoham/sml_2_assignment-lab_codes/blob/main/reports/Q13_ACO_Shortest_Path.md) in [codesbysoham/sml_2_assignment-lab_codes](https://github.com/codesbysoham/sml_2_assignment-lab_codes). The original report credits Soham Kamble. Please retain this attribution if reusing the material.
+
 **Course:** SML-II Laboratory Record  
 **Related notebook:** [Q13_ACO_Shortest_Path.ipynb](../Q13_ACO_Shortest_Path.ipynb)
 
