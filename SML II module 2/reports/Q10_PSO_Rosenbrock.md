@@ -1,5 +1,7 @@
 # Experiment 10: Particle Swarm Optimisation for the Rosenbrock Function
 
+> **Source and attribution:** This report is copied/adapted for study reference from [the original report](https://github.com/codesbysoham/sml_2_assignment-lab_codes/blob/main/reports/Q10_PSO_Rosenbrock.md) in [codesbysoham/sml_2_assignment-lab_codes](https://github.com/codesbysoham/sml_2_assignment-lab_codes). The original report credits Soham Kamble. Please retain this attribution if reusing the material.
+
 **Course:** SML-II Laboratory Record  
 **Related notebook:** [Q10_PSO_Rosenbrock.ipynb](../Q10_PSO_Rosenbrock.ipynb)
 
