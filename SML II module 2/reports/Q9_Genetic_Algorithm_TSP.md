@@ -1,7 +1,5 @@
 # Experiment 09: Genetic Algorithm for the Travelling Salesperson Problem
 
-> **Source and attribution:** This report is copied/adapted for study reference from [the original report](https://github.com/codesbysoham/sml_2_assignment-lab_codes/blob/main/reports/Q9_Genetic_Algorithm_TSP.md) in [codesbysoham/sml_2_assignment-lab_codes](https://github.com/codesbysoham/sml_2_assignment-lab_codes). The original report credits Soham Kamble. Please retain this attribution if reusing the material.
-
 **Course:** SML-II Laboratory Record  
 **Related notebook:** This report's original TSP-specific notebook is not present in this repository. The closest related notebook is [Q1_Genetic_Algorithm.ipynb](../Q1_Genetic_Algorithm.ipynb), but it solves a different GA exercise.
 
