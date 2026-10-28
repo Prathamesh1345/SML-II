@@ -1,6 +1,6 @@
 # SML-II
 
-Repository for Statistical Machine Learning II coursework, lab implementations, and experiment reports.
+Repository for Statistical Machine Learning II coursework and lab implementations.
 
 ## Repository structure
 
@@ -13,16 +13,6 @@ Location: [`SML II module 2/`](./SML%20II%20module%202/)
 - **Ant Colony Optimisation (ACO):** [Q13 — Shortest Path](./SML%20II%20module%202/Q13_ACO_Shortest_Path.ipynb)
 - **Simulated Annealing:** [User-input path implementation](./SML%20II%20module%202/Simulated_Annealing_User_Input_With_Path.ipynb)
 - **Experiment documents:** [PSO experiment](./SML%20II%20module%202/ED408_PSO_Experiment.docx) · [Simulated Annealing experiment](./SML%20II%20module%202/ED408_Simulated_Annealing_Experiment.docx)
-
-#### Reports
-
-Written experiment reports are stored in [`SML II module 2/reports/`](./SML%20II%20module%202/reports/):
-
-- [Q9 — Genetic Algorithm for the Travelling Salesperson Problem](./SML%20II%20module%202/reports/Q9_Genetic_Algorithm_TSP.md)
-- [Q10 — PSO for the Rosenbrock Function](./SML%20II%20module%202/reports/Q10_PSO_Rosenbrock.md)
-- [Q13 — ACO for Shortest-Path Finding](./SML%20II%20module%202/reports/Q13_ACO_Shortest_Path.md)
-
-> The Q9 TSP report is retained as reference material from another repository. It describes an eight-city TSP experiment and is not the same task as the current Q1 Genetic Algorithm notebook in this repository.
 
 ## Other lab notebooks
 
